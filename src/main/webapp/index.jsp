@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basic HTML & CSS</title>
+    <title>Basic Website</title>
     <style>
         /* Basic Styles */
         body {
