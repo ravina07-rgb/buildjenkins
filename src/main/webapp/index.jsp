@@ -41,7 +41,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Welcome to My New Website</h1>
     </header>
     <section>
         <p>This is a simple webpage using HTML and CSS.</p>
